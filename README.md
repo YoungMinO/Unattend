@@ -1,5 +1,6 @@
 # Unattend
 [# Youtube Link](https://www.youtube.com/@thisisnoway1259/videos)
+
 윈도우 설치를 부분 자동화하는 Unattend.xml 파일과 전체 자동화 AutoUnattend.xml 파일을 메뉴에서 선택하여 생성할 수 있습니다.
 초급자 버전은 위험 때문에 디스크 파티션 작업과 install.wim index 선택 작업이 제외되었습니다.
 전문가 버전에서 디스크 번호, EFI 파티션 크기, install.wim 이미지 번호를 선택할 수 있습니다.
